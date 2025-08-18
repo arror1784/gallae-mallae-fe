@@ -3,7 +3,7 @@ import styled from 'styled-components';
 import { Link } from 'react-router-dom';
 import { FiChevronLeft, FiUser } from 'react-icons/fi';
 
-// 실제 앱에서는 이 데이터를 서버에서 받아옵니다.
+
 const mockFriends = [
     { id: 1, name: '홍길동', stamps: 45 },
     { id: 2, name: '전우치', stamps: 1 },
